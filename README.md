@@ -1,3 +1,10 @@
+**Name:** Sanjaibabu M
+**Company:** CODETECH IT SOLUTIONS
+**ID:** CT08DKP
+**Domain:** CLOUD COMPUTING
+**Duration:** December 12th, 2024 to January 12th, 2025 
+**Mentor:** Neela Santhosh Kumar
+
 # Task One: Deploying a Web Application on AWS
 Learn the basics of deploying a simple web application using Amazon Web Services (AWS), including server setup, application hosting, and configuration.
 
